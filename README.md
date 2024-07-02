@@ -2,7 +2,7 @@
 
 ## Hi there, I'm Nakib Hasan Jhalak 👋
 
-I'm Nakib Hasan Jhalak, a passionate React front-end developer dedicated to crafting seamless user experiences and elegant interfaces. With a keen eye for detail and a deep understanding of design principles, I strive to bring creativity and functionality together in every project I undertake.
+A passionate React front-end developer dedicated to crafting seamless user experiences and elegant interfaces. With a keen eye for detail and a deep understanding of design principles, I strive to bring creativity and functionality together in every project I undertake.
 
 ### 🛠️ Skills
 
