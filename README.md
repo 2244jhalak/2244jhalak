@@ -4,7 +4,7 @@
 
 I'm Nakib Hasan Jhalak, a passionate React front-end developer dedicated to crafting seamless user experiences and elegant interfaces. With a keen eye for detail and a deep understanding of design principles, I strive to bring creativity and functionality together in every project I undertake.
 
-## 🛠️ Skills
+### 🛠️ Skills
 
 ![HTML5](https://img.icons8.com/color/48/000000/html-5.png)
 ![CSS3](https://img.icons8.com/color/48/000000/css3.png)
@@ -16,15 +16,20 @@ I'm Nakib Hasan Jhalak, a passionate React front-end developer dedicated to craf
 ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png)
 ![Firebase](https://img.icons8.com/color/48/000000/firebase.png)
 
-## 📊 Languages Used
+### 📊 Languages Used
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2244jhalak&layout=compact&theme=radical)](https://github.com/yourusername/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2244jhalak&layout=compact&theme=radical)](https://github.com/2244jhalak/github-readme-stats)
 
-## 📈 GitHub Stats
+### 📈 GitHub Activity
+
+[![Nakib's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=2244jhalak&theme=github)](https://github.com/2244jhalak)
+
+### 📈 GitHub Stats
 
 ![Nakib's GitHub stats](https://github-readme-stats.vercel.app/api?username=2244jhalak&show_icons=true&theme=radical)
 
 <!-- Optionally add more sections like Projects, Achievements, etc. -->
+
 
 
 
