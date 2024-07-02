@@ -18,13 +18,18 @@ I'm Nakib Hasan Jhalak, a passionate React front-end developer dedicated to craf
 
 ## 📊 Languages Used
 
-![HTML](https://img.icons8.com/color/48/000000/html-5.png) ![CSS](https://img.icons8.com/color/48/000000/css3.png) ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)](https://github.com/yourusername/github-readme-stats)
+
+## 📈 GitHub Activity Graph
+
+[![Nakib's GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=yourusername&theme=radical)](https://github.com/yourusername/github-readme-activity-graph)
 
 ## 📈 GitHub Stats
 
 [![Nakib's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/yourusername/github-readme-stats)
 
 <!-- Optionally add more sections like Projects, Achievements, etc. -->
+
 
 
 
