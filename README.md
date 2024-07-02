@@ -3,9 +3,9 @@
 
 
 <h3 align="center">Front End Developer | Expertise in React | Passionate about extensive experience with modern web technologies</h3>
-https://media.licdn.com/dms/image/D4E16AQFJH6OkjhvJvA/profile-displaybackgroundimage-shrink_350_1400/0/1716117676888?e=1725494400&v=beta&t=a9ZHcDZ0Kd5r_9i-ZeOaL-ZtxFu7raz7zsXSmDop02Q
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=2244jhalak&label=Profile%20views&color=0e75b6&style=flat" alt="2244jhalak" /> </p>
+<div><img src="https://media.licdn.com/dms/image/D4E16AQFJH6OkjhvJvA/profile-displaybackgroundimage-shrink_350_1400/0/1716117676888?e=1725494400&v=beta&t=a9ZHcDZ0Kd5r_9i-ZeOaL-ZtxFu7raz7zsXSmDop02Q" alt="2244jhalak" /></div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=2244jhalak&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=2244jhalak" alt="2244jhalak" /></a> </p>
 
