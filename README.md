@@ -20,7 +20,7 @@ I'm Nakib Hasan Jhalak, a passionate React front-end developer dedicated to craf
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2244jhalak&layout=compact&theme=radical)](https://github.com/2244jhalak/github-readme-stats)
 
-### 📈 GitHub Activity Graph
+### 📈 GitHub Activity
 
 ![Nakib's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=2244jhalak&theme=github)
 
