@@ -3,7 +3,7 @@
 
 
 <h3 align="center">Front End Developer | Expertise in React | Passionate about extensive experience with modern web technologies</h3>
-(https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+https://media.licdn.com/dms/image/D4E16AQFJH6OkjhvJvA/profile-displaybackgroundimage-shrink_350_1400/0/1716117676888?e=1725494400&v=beta&t=a9ZHcDZ0Kd5r_9i-ZeOaL-ZtxFu7raz7zsXSmDop02Q
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=2244jhalak&label=Profile%20views&color=0e75b6&style=flat" alt="2244jhalak" /> </p>
 
