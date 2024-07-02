@@ -16,16 +16,16 @@ I'm Nakib Hasan Jhalak, a passionate React front-end developer dedicated to craf
 ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png)
 ![Firebase](https://img.icons8.com/color/48/000000/firebase.png)
 
-## 📊 Language Used
+## 📊 Languages Used
 
-![HTML](https://img.shields.io/badge/HTML-23.6%25-blue)
-![CSS](https://img.shields.io/badge/CSS-18.9%25-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-57.5%25-blue)
+![HTML](https://img.icons8.com/color/48/000000/html-5.png) ![CSS](https://img.icons8.com/color/48/000000/css3.png) ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
 
 ## 📈 GitHub Stats
 
 [![Nakib's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/yourusername/github-readme-stats)
 
 <!-- Optionally add more sections like Projects, Achievements, etc. -->
+
+
 
 
