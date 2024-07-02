@@ -1,20 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nakib Hasan Jhalak</h1>
-### Hi there 👋, My name is Nakib Hasan Jhalak
-![](https://media.licdn.com/dms/image/D4E16AQFJH6OkjhvJvA/profile-displaybackgroundimage-shrink_350_1400/0/1716117676888?e=1725494400&v=beta&t=a9ZHcDZ0Kd5r_9i-ZeOaL-ZtxFu7raz7zsXSmDop02Q)
 
-a passionate React front-end developer dedicated to crafting seamless user experiences and elegant interfaces. With a keen eye for detail and a deep understanding of design principles, I strive to bring creativity and functionality together in every project I undertake.
-
-Skills: REACT / JS / HTML / CSS
-
-- 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning back-end-development 
-- 💬 Ask me about react 
-- 📫 How to reach me: stdjhalak@gmail.com 
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/2244jhalak)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nakib-hasan-jhalak-899751305/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/about-dot-me.svg' alt='about-dot-me' height='40'>](https://nakib-hasan-jhalak.vercel.app/)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=2244jhalak)  
 
 
 <h3 align="center">Front End Developer | Expertise in React | Passionate about extensive experience with modern web technologies</h3>
