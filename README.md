@@ -22,7 +22,7 @@ I'm Nakib Hasan Jhalak, a passionate React front-end developer dedicated to craf
 
 ### 📈 GitHub Activity
 
-![Nakib's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=2244jhalak&theme=github)
+![Nakib's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=2244jhalak&bg_color=ffffff&color=708090&line=24292f&point=24292f&hide_border=true)
 
 ### 📈 GitHub Stats
 
