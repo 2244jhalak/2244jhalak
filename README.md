@@ -4,6 +4,10 @@
 
 A passionate React front-end developer dedicated to crafting seamless user experiences and elegant interfaces. With a keen eye for detail and a deep understanding of design principles, I strive to bring creativity and functionality together in every project I undertake.
 
+### 📊 Languages Used
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2244jhalak&layout=compact&theme=radical)](https://github.com/2244jhalak/github-readme-stats)
+
 ### 🛠️ Skills
 
 ![HTML5](https://img.icons8.com/color/48/000000/html-5.png)
@@ -15,16 +19,6 @@ A passionate React front-end developer dedicated to crafting seamless user exper
 ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png)
 ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png)
 ![Firebase](https://img.icons8.com/color/48/000000/firebase.png)
-
-### 📊 Languages Used
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2244jhalak&layout=compact&theme=radical)](https://github.com/2244jhalak/github-readme-stats)
-
-
-
-### 📈 GitHub Stats
-
-![Nakib's GitHub stats](https://github-readme-stats.vercel.app/api?username=2244jhalak&show_icons=true&theme=radical)
 
 <!-- Optionally add more sections like Projects, Achievements, etc. -->
 
