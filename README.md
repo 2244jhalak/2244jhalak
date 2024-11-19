@@ -1,27 +1,34 @@
 ![Banner Image](https://i.ibb.co/VgdjRXB/photo-1605379399642-870262d3d051.jpg)
+<h1 align="center">Hi 👋, I'm Nakib Hasan Jhalak</h1>
+<h3 align="center">A passionate React front-end developer dedicated to crafting seamless user experiences and elegant interfaces. With a keen eye for detail and a deep understanding of design principles, I strive to bring creativity and functionality together in every project I undertake.</h3>
 
-## Hi there, I'm Nakib Hasan Jhalak 👋
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=2244jhalak&label=Profile%20views&color=0e75b6&style=flat" alt="2244jhalak" /> </p>
 
-A passionate React front-end developer dedicated to crafting seamless user experiences and elegant interfaces. With a keen eye for detail and a deep understanding of design principles, I strive to bring creativity and functionality together in every project I undertake.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=2244jhalak" alt="2244jhalak" /></a> </p>
 
-### 📊 Languages Used
+- 👨‍💻 All of my projects are available at [https://nakib-hasan-jhalak-krnh.vercel.app/](https://nakib-hasan-jhalak-krnh.vercel.app/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2244jhalak&layout=compact&theme=radical)](https://github.com/2244jhalak/github-readme-stats)
+- 💬 Ask me about **react**
 
-### 🛠️ Skills
+- 📫 How to reach me **stdjhalak@gmail.com**
 
-![HTML5](https://img.icons8.com/color/48/000000/html-5.png)
-![CSS3](https://img.icons8.com/color/48/000000/css3.png)
-![Tailwind CSS](https://img.icons8.com/color/48/000000/tailwindcss.png)
-![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
-![React](https://img.icons8.com/color/48/000000/react-native.png)
-![Express.js](https://img.icons8.com/color/48/000000/express.png)
-![Node.js](https://img.icons8.com/color/48/000000/nodejs.png)
-![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png)
-![Firebase](https://img.icons8.com/color/48/000000/firebase.png)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1unXQqMbeRqWD3s-mkzbjlN5DV0UnsIS5/view?usp=sharing](https://drive.google.com/file/d/1unXQqMbeRqWD3s-mkzbjlN5DV0UnsIS5/view?usp=sharing)
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/nakibhasanjhalak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nakibhasanjhalak" height="30" width="40" /></a>
+<a href="https://fb.com/nightmare.jhalak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nightmare.jhalak" height="30" width="40" /></a>
+</p>
 
-<!-- Optionally add more sections like Projects, Achievements, etc. -->
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=2244jhalak&show_icons=true&locale=en&layout=compact" alt="2244jhalak" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=2244jhalak&show_icons=true&locale=en" alt="2244jhalak" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=2244jhalak&" alt="2244jhalak" /></p>
+
 
 
 
