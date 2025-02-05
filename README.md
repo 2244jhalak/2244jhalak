@@ -1,6 +1,6 @@
 ![Banner Image](https://i.ibb.co/VgdjRXB/photo-1605379399642-870262d3d051.jpg)
 <h1 align="center">Hi 👋, I'm Nakib Hasan Jhalak</h1>
-<h3 align="center">A passionate React front-end developer dedicated to crafting seamless user experiences and elegant interfaces. With a keen eye for detail and a deep understanding of design principles, I strive to bring creativity and functionality together in every project I undertake.</h3>
+<h3 align="center">A passionate MERN Stack Developer dedicated to crafting seamless user experiences and elegant interfaces. With a keen eye for detail and a deep understanding of design principles, I strive to bring creativity and functionality together in every project I undertake.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=2244jhalak&label=Profile%20views&color=0e75b6&style=flat" alt="2244jhalak" /> </p>
 
